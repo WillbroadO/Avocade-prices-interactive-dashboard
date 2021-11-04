@@ -14,4 +14,4 @@ Web based dashbaords are a great way to display and share information with other
 * Link below to the web application
 
 
-http://127.0.0.1:8050/
+|http://127.0.0.1:8050/|
